@@ -26,5 +26,4 @@ def halve(n)
   return n/2
 
   end
-# n.class != "interger"? nil : n/2
   end
